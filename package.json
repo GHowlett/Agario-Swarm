@@ -1,0 +1,14 @@
+{
+  "name": "agario-swarm",
+  "version": "0.0.0",
+  "description": "Swarms a fleet of spawned agrio balls to a given player",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agario-client": "^1.0.11"
+  }
+}
